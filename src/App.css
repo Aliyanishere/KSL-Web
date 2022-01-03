@@ -1,0 +1,74 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.webadmin {
+  margin: 0%;
+  padding: 0%;
+}
+
+.webadmin h1 {
+  color: rgb(137, 195, 67);
+  margin: 10%;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.webadmin h2 {
+  color: rgb(137, 195, 67);
+  margin: 10%;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nav {
+  margin: 0%;
+  padding: 0%;
+}
+
+#btn {
+  width: 100%;
+  background-color: rgb(137, 195, 67);
+}
+
+.btn {
+  margin: 25px;
+  background-color: rgb(93, 183, 67);
+  border: 1px solid rgb(93, 183, 67);
+}
+
+form .box {
+  margin-bottom: 2%;
+  width: 100% !important;
+  height: fit-content;
+}
+
+.nav-itms {
+  color: rgb(137, 195, 67);
+  margin: 0 20px;
+  font-size: 22px;
+
+}
+
+.nav-main {
+  color: rgb(137, 195, 67) !important;
+  font-weight: 800;
+  letter-spacing: 2px;
+  font-size: 26px !important;
+  float: left;
+}
+
+.requestcards h1 {
+  text-decoration: underline;
+  color: rgb(137, 195, 67) !important;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
